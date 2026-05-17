@@ -1,0 +1,4 @@
+123error = heptaoxido de dicloro;
+sustancia_B = trioxido de hierro;
+compuesto_falla = monoxido de carbono $
+@quimica = oxido de sodio;

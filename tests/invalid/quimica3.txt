@@ -1,0 +1,3 @@
+99hierro = oxido de sodio;
+sustancia_C = heptaoxido de dicloro;
+compuesto = trioxido de dihierro #

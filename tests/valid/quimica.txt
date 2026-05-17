@@ -1,0 +1,3 @@
+sustancia_A = trioxido de dihierro;
+resultado = monoxido de carbono;
+compuesto_tres = heptaoxido de dicloro;
