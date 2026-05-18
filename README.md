@@ -18,7 +18,7 @@ Este proyecto consiste en el diseño e implementación de un analizador léxico 
 
 \## Integrantes del Equipo
 
-\* Perez Castan Alejandro Emmanuel - 2223330182
+* Perez Castan Alejandro Emmanuel - 2223330182
 
 \* Sanchez Garcia Gael Antonio - 2223330195
 
